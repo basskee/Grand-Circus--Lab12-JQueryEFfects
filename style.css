@@ -1,0 +1,57 @@
+
+
+/*========================
+=====Container=================
+=======================*/
+
+.container{
+	height:800px;
+	width:960px;
+	border:thin solid black;
+	background-color:gold;
+
+
+}
+
+
+
+
+/*========================
+=====Body============
+=======================*/
+
+body{
+	margin:0 auto;
+	text-align: center;
+}
+
+ul{
+	list-style: none;
+	padding-top:200px;
+
+
+}
+
+ul li{
+	height:50px;
+	width:200px;
+	border:solid black thin;
+	color:#fff;
+	padding: 10px;
+	margin:10px;
+	display: inline-block;	
+	background-color: blue;
+
+}
+
+
+
+
+
+
+
+
+
+/*========================
+=====Global============
+=======================*/
